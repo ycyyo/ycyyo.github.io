@@ -8,7 +8,7 @@ hasCJKLanguage = true
 
 [params]
   dateform        = "Feb 16, 2026"
-  dateformShort   = "Fed 16"
+  # dateformShort   = "Feb 16"
   dateformNum     = "2026-02-16"
   dateformNumTime = "2026-02-16 14:25"
 
@@ -22,7 +22,7 @@ hasCJKLanguage = true
   enableSharingButtons = true
   
   # Show a global language switcher in the navigation bar
-  enableGlobalLanguageMenu = true
+  enableGlobalLanguageMenu = false
 
   # Metadata mostly used in document's head
   description = "ycyyo's blog"
@@ -42,8 +42,6 @@ hasCJKLanguage = true
     readOtherPosts = "Read other posts"
 
   [languages.zh-tw.params]
-    subtitle  = "A simple theme for Hugo"
-
     [languages.zh-tw.params.logo]
       logoText = "Nice to Meet You"
       logoHomeLink = "/"
@@ -52,5 +50,5 @@ hasCJKLanguage = true
   [[menu.main]]
     identifier = "exchange"
     name       = "交換生的蒙特婁生存指南"
-    url        = "/exchange"
-    hasChildten = true
+    url        = "/exchange/"
+    hasChildten = false
