@@ -5,6 +5,7 @@ theme        = "hello-friend-ng"
 pagination.pagerSize     = 10
 defaultContentLanguage = 'zh-tw'
 hasCJKLanguage = true
+googleAnalytics = 'G-2K1GVG0JE8'
 
 [params]
   dateform        = "Feb 16, 2026"
