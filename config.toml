@@ -51,4 +51,10 @@ hasCJKLanguage = true
     identifier = "exchange"
     name       = "交換生的蒙特婁生存指南"
     url        = "/exchange/"
-    hasChildten = false
+    hasChildren = false
+
+  [[menu.main]]
+    identifier = "form"
+    name       = "明信片許願池"
+    url        = "https://docs.google.com/forms/d/e/1FAIpQLSdu8ODkXTnmL2CHhqLHlvKNJHZ_0fXz_27N5xi_B9vSMQUMqQ/viewform?usp=publish-editor"
+    hasChildren = false
