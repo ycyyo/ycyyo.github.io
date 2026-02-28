@@ -2,6 +2,7 @@
 title: "交換生的蒙特婁生存指南"
 date: 2026-02-19
 draft: false
+description: "蒙特婁工程學院 (Polytechnique) 的 International Thematic Clusters in Engineering 交換分享"
 tags:
   - 出國交換
   - 加拿大

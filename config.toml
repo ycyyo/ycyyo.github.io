@@ -8,10 +8,10 @@ hasCJKLanguage = true
 googleAnalytics = 'G-2K1GVG0JE8'
 
 [params]
-  dateform        = "Feb 16, 2026"
-  # dateformShort   = "Feb 16"
-  dateformNum     = "2026-02-16"
-  dateformNumTime = "2026-02-16 14:25"
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
   homeSubtitle = "🌠 努力成為一個會記錄生活的人"
@@ -51,7 +51,7 @@ googleAnalytics = 'G-2K1GVG0JE8'
   [[menu.main]]
     identifier = "exchange"
     name       = "交換生的蒙特婁生存指南"
-    url        = "/exchange/"
+    url        = "/series/交換生的蒙特婁生存指南"
     hasChildren = false
 
   [[menu.main]]

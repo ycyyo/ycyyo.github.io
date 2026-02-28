@@ -2,6 +2,10 @@
 title: "EP0 前情提要"
 date: 2026-02-17
 draft: false
+series: ["交換生的蒙特婁生存指南"]
+series_order: 1
+weight: 1
+description: "關於蒙特婁與蒙特婁工程學院(Polytechnique Montréal)的交換經驗分享，包含城市文化、氣候、治安，以及 ITC 交換計畫的介紹與個人建議。"
 tags:
   - 出國交換
   - 加拿大
