@@ -1,5 +1,5 @@
 ---
-title: "EP2 起飛前的準備-1"
+title: "EP2 起飛前的準備 - 衣物、eTA"
 date: 2026-02-27
 draft: false
 series: ["交換生的蒙特婁生存指南"]
