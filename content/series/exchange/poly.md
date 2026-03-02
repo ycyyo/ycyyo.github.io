@@ -2,7 +2,7 @@
 title: "EP1 Admission 及選課"
 date: 2026-02-24
 draft: false
-series: ["交換生的蒙特婁生存指南"]
+series: ["exchange", "交換生的蒙特婁生存指南"]
 series_order: 2
 weight: 2
 description: "在 Polytechnique Montréal ITC 的踩雷經驗，詳細記錄從 admission、法語課到選課過程中的各種行政問題。"

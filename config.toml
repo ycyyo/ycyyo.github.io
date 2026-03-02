@@ -51,7 +51,7 @@ googleAnalytics = 'G-2K1GVG0JE8'
   [[menu.main]]
     identifier = "exchange"
     name       = "交換生的蒙特婁生存指南"
-    url        = "/series/交換生的蒙特婁生存指南"
+    url        = "/series/exchange"
     hasChildren = false
 
   [[menu.main]]

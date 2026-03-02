@@ -2,7 +2,7 @@
 title: "EP2 起飛前的準備 - 衣物、eTA"
 date: 2026-02-27
 draft: false
-series: ["交換生的蒙特婁生存指南"]
+series: ["exchange", "交換生的蒙特婁生存指南"]
 series_order: 3
 weight: 3
 description: "冬季前往蒙特婁交換所需的衣物準備與加拿大 eTA、入境海關流程分享。"

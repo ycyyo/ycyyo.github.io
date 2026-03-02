@@ -58,12 +58,12 @@
                     {{ end }}
                 {{ end }}
 
-                <div class="series-nav" style="margin: 40px">
-                    <div style="display: flex; justify-content: space-between;">
-                        <span>
+                <div class="series-nav">
+                    <div class="series-nav-links">
+                        <span class="series-nav-prev">
                             {{ if $prev }}← 上一篇：<a href="{{ $prev.Permalink }}">{{ $prev.Title }}</a>{{ end }}
                         </span>
-                        <span>
+                        <span class="series-nav-next">
                             {{ if $next }}下一篇：<a href="{{ $next.Permalink }}">{{ $next.Title }}</a> →{{ end }}
                         </span>
                     </div>
@@ -74,7 +74,7 @@
 
             <div class="post-info">
                 {{ if .Params.series}}
-                    <p>系列文章：{{ index .Params.series 0 }}</p>
+                    <p>系列文章：{{ index .Params.series 1 }}</p>
                 {{ end }}
                 {{ partial "tags.html" .Params.tags }}
                 {{ partial "categories.html" . }}

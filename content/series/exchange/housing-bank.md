@@ -2,7 +2,7 @@
 title: "EP2 起飛前的準備 - 住宿、銀行"
 date: 2026-03-01
 draft: false
-series: ["交換生的蒙特婁生存指南"]
+series: ["exchange", "交換生的蒙特婁生存指南"]
 series_order: 4
 weight: 4
 description: "蒙特婁交換住宿選擇（宿舍抽籤、租房注意事項、Residence Maria Goretti）與金融準備（永豐多幣簽帳金融卡的優缺點、加拿大當地 TD 銀行開戶流程）的實用經驗分享。"
