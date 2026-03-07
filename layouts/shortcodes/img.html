@@ -1,0 +1,13 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" | default "" }}
+{{ $width := .Get "width" | default "800" }}
+
+{{ $img := resources.Get $src }}
+{{ if $img }}
+  {{ $resized := $img.Resize (printf "%sx webp" $width) }}
+  <figure class="center">
+    <img src="{{ $resized.RelPermalink }}" alt="{{ $alt }}" />
+  </figure>
+{{ else }}
+    {{ if $alt }}<p>{{ $alt }}</p>{{ end }}
+{{ end }}

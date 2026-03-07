@@ -40,9 +40,9 @@ Poly 公告的 Academic calendar 上面會有選課的時間(Course Selection or
 
 ITC 能選的課程很少，總共只有五堂課，我打算全選，反正期中還有機會退選。這時候遇到了第一個問題：選課系統要怎麼操作？
 
-![](/cour_sele.jpg)  
+{{< img src="/images/cour_sele.jpg" height="400px" >}}
 上圖是選課系統的樣子，填了 Sigle(課程代碼)之後會自動幫你填 Intitule(課名)，問題是 Gr. Theo 和 Gr. Lab. 是什麼？答案藏在下面這張圖中
-{{< figure src="/cour_desc.png" height="400px" >}}
+{{< img src="/images/cour_desc.png" height="400px" >}}
 這是 poly 官網上課程資訊的其中一部份，原文是法文，Google 翻譯成英文。Poly 幾乎所有課程都分為理論課和實作課，而理論課和實作課可能會在不同時段有不同的 group (圖片中翻譯成 band)，每個 group 會有一個編號，Gr. Theo 欄位要填的是理論課的編號，Gr. Lab. 要填實作課的編號。  
 
 那時還有一些其他問題，所以寫了信給 admission 的負責單位，信中提了三個問題，但他們的回信只回答了其中一個問題，所以自己通靈了一段時間才發現上面這個結論。
@@ -53,7 +53,7 @@ ITC 能選的課程很少，總共只有五堂課，我打算全選，反正期�
 很顯然從這個管道無法得到任何有用的資訊，所以我改向交大國際處求助，國際處寫了一封信給 SEP，不過 poly 的行政單位已經在放聖誕假期，一直到開學我們都沒有收到任何的回信。  
 
 第二階段選課開放後，我再次到系統上試著選那兩堂課，終於成功選到了，但隨即發現了另一個問題：有三門課程的時間是互相衝突的，如下圖
-{{< figure src="/schedule1.png" height="700px" >}}
+{{< img src="/images/schedule1.png" height="700px" >}}
 
 也就是說，這五堂課裡，我沒有辦法找到一個排列組合讓我自己可以滿足 12 credits 的要求。
 

@@ -24,18 +24,18 @@ VIA Rail -> Koreatown -> Kensington Market -> Chinatown -> The Planet Traveler H
 
 首先商務艙 boarding 之前可以使用 lounge，裡面會有一些免費果汁、飲料和咖啡機可以自行取用。商務艙的旅客可以優先 boarding，時間到了 lounge 裡面也會廣播。  
 
-{{<figure src="/toronto_trip/via_lounge.jpg" alt="VIA Rail Montreal Lounge">}}
+{{<img src="/images/toronto_trip/via_lounge.jpg" alt="VIA Rail Montreal Lounge">}}
 
 車上的座位很大，每節車廂裡都會有行李空間，旁邊還可以吊外套(不然的話冬天的外套真的很佔位置啊...)  
 
 在五個半小時的旅程當中，服務人員大約來發過五次飲料，有茶、咖啡、紅白酒和一些 soft drink。  
 我買的火車票大約是早上九點到下午兩點，正式的餐點在十二點左右發放，在那之前發了一個小蛋糕和一個餅乾，餐後發了一顆巧克力，食物都很好吃，份量也很夠，不用擔心吃不飽。  
 
-{{<figure src="/toronto_trip/via_snacks.jpg" alt="VIA Rail Business Class snacks">}}
+{{<img src="/images/toronto_trip/via_snacks.jpg" alt="VIA Rail Business Class snacks">}}
 
 我上車之前有在 VIA APP 上預訂餐點，點的是鮭魚。一打開餐點看到是泥狀的鮭魚本來有點失望，但嘗了一口之後發現調味很棒，口感也不會像有的罐頭一樣糊糊的，涼拌蔬菜的調味也很順口，唯一美中不足的地方是隨餐附的甜點有點太甜了。
 
-{{<figure src="/toronto_trip/via_meal.jpg" alt="VIA Rail Business Class Meal">}}
+{{<img src="/images/toronto_trip/via_meal.jpg" alt="VIA Rail Business Class Meal">}}
 
 ## Koreatown
 
@@ -45,7 +45,7 @@ VIA Rail -> Koreatown -> Kensington Market -> Chinatown -> The Planet Traveler H
 
 ## Kensington Market
 
-{{<figure src="/toronto_trip/kensington.jpg" alt="Kensington Market">}}
+{{<img src="/images/toronto_trip/kensington.jpg" alt="Kensington Market">}}
 
 其實不是一個 market，是一個街區，裡面的店大概可以分成：吃的喝的、文青小店、古著店。  
 路上有很多塗鴉，氛圍很活潑。
@@ -65,4 +65,4 @@ VIA Rail -> Koreatown -> Kensington Market -> Chinatown -> The Planet Traveler H
 
 頂樓看出去的景色超級讚，每天晚上還會舉辦一些免費活動，例如 movie night, comedy night, bingo 之類的。
 
-{{<figure src="/toronto_trip/rooftop.jpg" alt="rooftop of the Planet Traveler hostel">}}
+{{<img src="/images/toronto_trip/rooftop.jpg" alt="rooftop of the Planet Traveler hostel">}}
