@@ -47,15 +47,27 @@ googleAnalytics = 'G-2K1GVG0JE8'
       logoText = "Nice to Meet You"
       logoHomeLink = "/"
 
+  [[menu.main]]
+    identifier = "02-travel"
+    name       = "遊記們"
+    hasChildren = true
+
+  [[menu.main]]
+    identifier = "02-01-travel-toronto"
+    name       = "20260228 多倫多之旅"
+    parent     = "02-travel"
+    url        = "/series/travel-toronto"
+    hasChildren = false
+    
   # And you can even create generic menu
   [[menu.main]]
-    identifier = "exchange"
+    identifier = "01-exchange"
     name       = "交換生的蒙特婁生存指南"
     url        = "/series/exchange"
     hasChildren = false
 
   [[menu.main]]
-    identifier = "form"
+    identifier = "99-form"
     name       = "明信片許願池"
     url        = "https://docs.google.com/forms/d/e/1FAIpQLSdu8ODkXTnmL2CHhqLHlvKNJHZ_0fXz_27N5xi_B9vSMQUMqQ/viewform?usp=publish-editor"
     hasChildren = false
