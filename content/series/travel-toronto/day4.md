@@ -5,7 +5,7 @@ draft: false
 series: ["travel-toronto", "多倫多之旅"]
 series_order: 4
 weight: 4
-description: ""
+description: "走訪多倫多大學與皇家安大略博物館，再登上 CN Tower 俯瞰城市景色，最後到 St. Lawrence Market 享用龍蝦捲，為旅程收尾。"
 tags:
   - 出國交換
   - 加拿大

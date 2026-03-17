@@ -1,4 +1,5 @@
 {{ define "main" }}
+    {{ $isEnglish := eq .Site.Language.Lang "en" }}
     <div class="content">
         <main class="post">
 
@@ -9,7 +10,6 @@
                         <a href="{{ .Permalink }}"><span class="flag fi fi-{{ index $.Site.Data.langFlags (.Lang) }}"></span></a>
                     {{ end}}
                 {{ end }}
-                </p>
             </div>
 
             <article>
@@ -61,10 +61,10 @@
                 <div class="series-nav">
                     <div class="series-nav-links">
                         <span class="series-nav-prev">
-                            {{ if $prev }}← 上一篇：<a href="{{ $prev.Permalink }}">{{ $prev.Title }}</a>{{ end }}
+                            {{ if $prev }}← {{ if $isEnglish }}Previous: {{ else }}上一篇：{{ end }}<a href="{{ $prev.Permalink }}">{{ $prev.Title }}</a>{{ end }}
                         </span>
                         <span class="series-nav-next">
-                            {{ if $next }}下一篇：<a href="{{ $next.Permalink }}">{{ $next.Title }}</a> →{{ end }}
+                            {{ if $next }}{{ if $isEnglish }}Next: {{ else }}下一篇：{{ end }}<a href="{{ $next.Permalink }}">{{ $next.Title }}</a> →{{ end }}
                         </span>
                     </div>
                 </div>
@@ -74,7 +74,7 @@
 
             <div class="post-info">
                 {{ if .Params.series}}
-                    <p>系列文章：{{ index .Params.series 1 }}</p>
+                    <p>{{ if $isEnglish }}Series:{{ else }}系列文章：{{ end }} {{ index .Params.series 1 }}</p>
                 {{ end }}
                 {{ partial "tags.html" .Params.tags }}
                 {{ partial "categories.html" . }}

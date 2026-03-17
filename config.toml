@@ -23,7 +23,7 @@ googleAnalytics = 'G-2K1GVG0JE8'
   enableSharingButtons = true
   
   # Show a global language switcher in the navigation bar
-  enableGlobalLanguageMenu = false
+  enableGlobalLanguageMenu = true
 
   # Metadata mostly used in document's head
   description = "ycyyo's blog"
@@ -37,22 +37,27 @@ googleAnalytics = 'G-2K1GVG0JE8'
 
 [languages]
   [languages.zh-tw]
+    languageName = "繁體中文"
+    languageCode = "zh-TW"
+    weight = 1
     title = "ycyyo's blog"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
   [languages.zh-tw.params]
+    homeSubtitle = "🌠 努力成為一個會記錄生活的人"
+
     [languages.zh-tw.params.logo]
       logoText = "Nice to Meet You"
       logoHomeLink = "/"
 
-  [[menu.main]]
+  [[languages.zh-tw.menu.main]]
     identifier = "02-travel"
     name       = "遊記們"
     hasChildren = true
 
-  [[menu.main]]
+  [[languages.zh-tw.menu.main]]
     identifier = "02-01-travel-toronto"
     name       = "20260228 多倫多之旅"
     parent     = "02-travel"
@@ -60,14 +65,54 @@ googleAnalytics = 'G-2K1GVG0JE8'
     hasChildren = false
     
   # And you can even create generic menu
-  [[menu.main]]
+  [[languages.zh-tw.menu.main]]
     identifier = "01-exchange"
     name       = "交換生的蒙特婁生存指南"
     url        = "/series/exchange"
     hasChildren = false
 
-  [[menu.main]]
+  [[languages.zh-tw.menu.main]]
     identifier = "99-form"
     name       = "明信片許願池"
+    url        = "https://docs.google.com/forms/d/e/1FAIpQLSdu8ODkXTnmL2CHhqLHlvKNJHZ_0fXz_27N5xi_B9vSMQUMqQ/viewform?usp=publish-editor"
+    hasChildren = false
+
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-US"
+    weight = 2
+    title = "ycyyo's blog"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+  [languages.en.params]
+    homeSubtitle = "🌠 Trying to become someone who records life"
+
+    [languages.en.params.logo]
+      logoText = "Nice to Meet You"
+      logoHomeLink = "/en/"
+
+  [[languages.en.menu.main]]
+    identifier = "02-travel"
+    name       = "Trips"
+    hasChildren = true
+
+  [[languages.en.menu.main]]
+    identifier = "02-01-travel-toronto"
+    name       = "2026-02-28 Toronto Trip"
+    parent     = "02-travel"
+    url        = "/en/series/travel-toronto"
+    hasChildren = false
+
+  [[languages.en.menu.main]]
+    identifier = "01-exchange"
+    name       = "Poly Montreal Exchange Guide"
+    url        = "/en/series/exchange"
+    hasChildren = false
+
+  [[languages.en.menu.main]]
+    identifier = "99-form"
+    name       = "Postcard Wishlist"
     url        = "https://docs.google.com/forms/d/e/1FAIpQLSdu8ODkXTnmL2CHhqLHlvKNJHZ_0fXz_27N5xi_B9vSMQUMqQ/viewform?usp=publish-editor"
     hasChildren = false
