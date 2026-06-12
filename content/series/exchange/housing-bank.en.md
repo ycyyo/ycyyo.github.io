@@ -1,5 +1,5 @@
 ---
-title: "EP2 Pre-Departure Prep - Housing and Banking"
+title: "EP3 Pre-Departure Prep - Housing and Banking"
 date: 2026-03-01
 draft: false
 series: ["exchange", "Poly Montreal Exchange Guide"]

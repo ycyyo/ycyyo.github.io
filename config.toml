@@ -71,12 +71,6 @@ googleAnalytics = 'G-2K1GVG0JE8'
     url        = "/series/exchange"
     hasChildren = false
 
-  [[languages.zh-tw.menu.main]]
-    identifier = "99-form"
-    name       = "明信片許願池"
-    url        = "https://docs.google.com/forms/d/e/1FAIpQLSdu8ODkXTnmL2CHhqLHlvKNJHZ_0fXz_27N5xi_B9vSMQUMqQ/viewform?usp=publish-editor"
-    hasChildren = false
-
   [languages.en]
     languageName = "English"
     languageCode = "en-US"
@@ -109,10 +103,4 @@ googleAnalytics = 'G-2K1GVG0JE8'
     identifier = "01-exchange"
     name       = "Poly Montreal Exchange Guide"
     url        = "/en/series/exchange"
-    hasChildren = false
-
-  [[languages.en.menu.main]]
-    identifier = "99-form"
-    name       = "Postcard Wishlist"
-    url        = "https://docs.google.com/forms/d/e/1FAIpQLSdu8ODkXTnmL2CHhqLHlvKNJHZ_0fXz_27N5xi_B9vSMQUMqQ/viewform?usp=publish-editor"
     hasChildren = false

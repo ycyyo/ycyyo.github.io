@@ -1,5 +1,5 @@
 ---
-title: "EP2 起飛前的準備 - 住宿、銀行"
+title: "EP3 起飛前的準備 - 住宿、銀行"
 date: 2026-03-01
 draft: false
 series: ["exchange", "交換生的蒙特婁生存指南"]
